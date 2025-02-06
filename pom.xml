@@ -60,6 +60,7 @@
 			<id>github</id>
 			<name>GitHub Packages</name>
 			<url>https://maven.pkg.github.com/schleeg/module4-continuous-integration</url>
+		</repository>
 	</distributionManagement>
 
 </project>
